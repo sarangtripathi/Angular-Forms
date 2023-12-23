@@ -1,8 +1,16 @@
+/* * {
+    margin: 0;
+    padding: 0;
+  } */
+
 .container{
     height: 100vh;
-    width: 100%;
+    max-width: 1530px;
     display: flex;
     justify-content: center;
     align-items: center;
     background: linear-gradient(135deg, orange 60%, cyan);
+    
 }
+/* { .container{  max-width: 1530px;    }} */
+
